@@ -1,41 +1,34 @@
-# Hi, I'm NOwL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Night OwL Developer
 
-### 👨‍💻 Full Stack Developer | Software Engineering Student at BKACAD
+I craft beautiful web experiences while the world sleeps.
 
-I am a passionate developer based in Vietnam, currently majoring in Software Engineering at BKACAD. I have a strong interest in building scalable web applications and cross-platform mobile solutions.
+Front-end Developer from Vietnam, currently studying Software Engineering at BKACAD.
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Software Engineering**
-- 📫 Reach me at: [**Facebook**](https://facebook.com/9owlsama)
+[Portfolio](https://night-owl-portfolio.vercel.app/) • [GitHub](https://github.com/nowl-it) • [Facebook](https://www.facebook.com/9owlsama/) • [Email](mailto:thh241005@gmail.com)
 
----
+## About
 
-## 🛠️ Technologies & Tools
+- Role: Front-end Developer
+- Status: Intern (Certified)
+- Focus: Clean UI, smooth UX, maintainable code
+- Working style: Night coding sessions and product-first mindset
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,php,html,css,sass,tailwind,react,nextjs,vite,nodejs,bun,laravel,electron,tauri,prisma,mariadb,firebase,nginx,git,github,postman,cloudflare&perline=14" />
-  </a>
-</div>
+## Core Stack
 
-<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Frameworks, Libraries & Others:**
-<br/>
-`React Native` `Expo` `React Query` `TrPC` `Zod` `Radix UI` `Styled Components` `Apache` `ESLint` `JWT`
+## Selected Projects
 
----
+- [GameForge Toolkit](https://github.com/nowl-it/Reverse-Game-Android-Toolkit): Desktop toolkit for Android game reverse-engineering workflows.
+- [KGC Team Share](https://github.com/nowl-it/kgc-team-share): Team-building and sharing platform for King God Castle players.
+- [Unity IL2CPP RE Toolkit](https://github.com/nowl-it/android-reverse-engineering): Scripts and docs for Unity IL2CPP reverse engineering.
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowl-it&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
----
-
-<div align="left">
-  <a href="https://buymeacoffee.com/night_owl">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowl-it&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nowl-it&layout=compact&theme=transparent&hide_border=true)
