@@ -97,9 +97,9 @@ High-performance CLI for asset management and API analysis — built in Rust for
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-alpha.vercel.app/api?username=nowl-it&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-alpha.vercel.app/api?username=nowl-it&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=nowl-it&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=nowl-it&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
