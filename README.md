@@ -62,14 +62,14 @@ Community website featuring Wiki, Team Builder, and AI-powered team composition 
 
 ---
 
-### 🔐 KGC Private Server
+### 🔐 King Bug Castle
 > Reverse-engineered Private Server & API Emulator
 
 Features IL2CPP analysis, ARM64 patching, and offline logic emulation for King God Castle.
 
 **Tech:** Python · FastAPI · IL2CPP · 2 ⭐
 
-[![View](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/nowl-it/kgc-private-server)
+[![View](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/nowl-it/KingBugCastle)
 
 ---
 
